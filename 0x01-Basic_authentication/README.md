@@ -1,0 +1,1 @@
+This directory contains solution attempts on basic authentication problems.
